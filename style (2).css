@@ -1,0 +1,29 @@
+body {
+  font-size: 16px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  font-size: 2em;
+  font-style: normal;
+  font-weight: 200;
+  background-color: rgba(29, 67, 235, 0.4);
+  color: rgb(350, 350, 350);
+}
+p {
+  background-color: #297288;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:3em;
+  font-weight: bold;
+}
+h2 {
+  background-color: hsl(0, 30%, 40%);
+  color:red;
+}
+a:hover {
+  color: red;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
